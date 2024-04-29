@@ -21,6 +21,7 @@ Maybe you don't master them all, but you should know they exist!
 
 ### Unix command line
   The Unix Workbench, a complete tuto with many exercices: https://seankross.com/the-unix-workbench/
+  Or https://github.com/phyver/GameShell
 
 ### BioNumPy
   https://twitter.com/razoralign/status/1606817896491274242?s=20&t=4VB9jJ-sHO3x3Z7jMqXMNQ
